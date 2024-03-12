@@ -1,0 +1,573 @@
+.find-your-doc {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  border-radius: 28px;
+  background-color: #2caef7;
+  width: 17.25rem;
+  height: 3.38rem;
+}
+.find-your-doctor {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 121px);
+  font-size: 1.44rem;
+  font-family: var(--font-itim);
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 15.19rem;
+}
+.find-your-doctor-here {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 26.56rem;
+  left: 10rem;
+  width: 17.25rem;
+  height: 3.38rem;
+}
+.doctor-img-icon {
+  position: absolute;
+  top: 0.38rem;
+  left: 38.5rem;
+  width: 41.5rem;
+  height: 32.98rem;
+}
+.lorem-ipsum-dolor {
+  margin: 0;
+  position: absolute;
+  top: 19.75rem;
+  left: 10rem;
+  display: flex;
+  align-items: center;
+  width: 23.38rem;
+  height: 4.5rem;
+}
+.we-follow-a {
+  margin: 0;
+  position: absolute;
+  top: 4.31rem;
+  left: 10rem;
+  font-size: 3.63rem;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 29.63rem;
+  height: 13.81rem;
+}
+.expert-medical-treatment {
+  position: absolute;
+  top: 0rem;
+  left: 1.81rem;
+  display: flex;
+  align-items: center;
+  width: 19rem;
+}
+.expert-medical-treatement-child {
+  position: absolute;
+  top: 0.70rem;
+  left: -0.16rem;
+  background-color: #d9d9d9;
+  border-top: 5px solid #109cc8;
+  box-sizing: border-box;
+  width: 1.38rem;
+  height: 0.31rem;
+}
+.expert-medical-treatement {
+  position: absolute;
+  top: 1.81rem;
+  left: 10rem;
+  width: 20.81rem;
+  height: 1.5rem;
+}
+.body {
+  position: absolute;
+  top: 7.31rem;
+  left: 0rem;
+  border-radius: 2px;
+  background-color: var(--color-gray-100);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-sizing: border-box;
+  width: 90rem;
+  height: 34.06rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}
+.group-icon {
+  position: absolute;
+  height: 38.24%;
+  width: 74.16%;
+  top: 30.52%;
+  right: -0.04%;
+  bottom: 31.24%;
+  left: 25.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 23.74%;
+  top: 0%;
+  right: 76.26%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+}
+.vector-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.tight-bounds {
+  position: absolute;
+  height: 99.46%;
+  width: 99.61%;
+  top: 0.18%;
+  right: 0.22%;
+  bottom: 0.36%;
+  left: 0.17%;
+}
+.frame {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -0.18%;
+  right: 0.04%;
+  bottom: 0.18%;
+  left: -0.04%;
+}
+.logo-no-background-1 {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 14.3rem;
+  height: 3.5rem;
+}
+.home {
+  position: absolute;
+  top: 0.94rem;
+  left: 21.78rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4.91rem;
+  height: 1.63rem;
+}
+.home:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+}
+
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.company {
+  position: absolute;
+  top: 0.94rem;
+  left: 28.18rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 7.12rem;
+  height: 1.63rem;
+}
+.company:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+}
+.service {
+  position: absolute;
+  top: 0.94rem;
+  left: 36.79rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 6.46rem;
+  height: 1.63rem;
+}
+.service:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+}
+.contact {
+  position: absolute;
+  top: 0.94rem;
+  left: 44.74rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 7.42rem;
+  height: 1.63rem;
+}
+.contact:hover {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  animation: 1s ease 0s 1 alternate none scale-up;
+  opacity: 1;
+}
+.book-now-child {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  border-radius: 19px;
+  background-color: #0487ff;
+  width: 9.22rem;
+  height: 2.94rem;
+}
+.book-now1 {
+  position: absolute;
+  top: 0rem;
+  left: 0.72rem;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 7.81rem;
+  height: 2.94rem;
+}
+.book-now {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0.25rem;
+  left: 60.53rem;
+  width: 9.22rem;
+  height: 2.94rem;
+}
+.book-now:hover {
+  animation: 1s ease 1s 1 normal none scale-up;
+  opacity: 1;
+}
+.header-section {
+  position: absolute;
+  top: 1.69rem;
+  left: 10.13rem;
+  width: 69.75rem;
+  height: 3.5rem;
+}
+.header {
+  position: absolute;
+  top: 0rem;
+  left: calc(50% - 720px);
+  background-color: var(--color-gray-100);
+  width: 90rem;
+  height: 7.31rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.search-child {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  border-radius: 20px;
+  background-color: #2c7ef9;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.vector-icon1 {
+  width: 2.56rem;
+  position: relative;
+  /* height: 2.38rem; */
+  z-index: 0;
+}
+.vector-icon2 {
+  width: 70.94%;
+  position: absolute;
+  margin: 0 !important;
+  height: 71%;
+  top: 12.33%;
+  right: 16.56%;
+  bottom: 16.67%;
+  left: 12.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.icon-search-icon {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 16px);
+  width: 2rem;
+  height: 1.88rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.63rem;
+}
+.search {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 8rem;
+  left: 61.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+/* .search:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+} */
+.search:active {
+  display: flex;
+  cursor: pointer;
+}
+.select-area-child {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-white);
+  width: 16.5rem;
+  height: 2.44rem;
+}
+.area {
+  border: none;
+  outline: none;
+  font-family: var(--font-itim);
+  font-size: var(--font-size-6xl);
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 132px);
+  color: var(--color-dimgray-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 16.5rem;
+  height: 2.38rem;
+}
+.select-area {
+  position: absolute;
+  top: 8.06rem;
+  left: 43.75rem;
+  width: 16.5rem;
+  height: 2.44rem;
+}
+/* .select-area:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+} */
+.find-your-doctor1 {
+  position: absolute;
+  top: 8.06rem;
+  left: 26rem;
+  width: 16.5rem;
+  height: 2.44rem;
+}
+/* .find-your-doctor1:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+} */
+.search-here {
+  position: absolute;
+  top: 2.38rem;
+  left: 8.75rem;
+  font-size: 2.44rem;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 15.13rem;
+  height: 4rem;
+}
+.d1-icon {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 13.81rem;
+  height: 19rem;
+}
+.lorem-ipsum-dolor1 {
+  position: absolute;
+  top: 14.31rem;
+  left: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 11.31rem;
+  height: 2.31rem;
+}
+.orthopedist {
+  position: absolute;
+  top: 11.75rem;
+  left: 1.94rem;
+  font-size: var(--font-size-mid);
+  color: var(--color-dimgray-300);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 10rem;
+  height: 1.13rem;
+}
+.experience{
+  position: absolute;
+  top: 13rem;
+  left: 0.94rem;
+  font-size: var(--font-size-l);
+  color: var(--color-dimgray-300);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 12rem;
+  height: 1.13rem;
+}
+.docName {
+  position: absolute;
+  top: 10rem;
+  left: 1rem;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 12rem;
+  height: 1.19rem;
+}
+.group-child {
+  position: absolute;
+  top: 2rem;
+  left: 3.19rem;
+  border-radius: 50%;
+  width: 7.5rem;
+  height: 7.5rem;
+  object-fit: cover;
+}
+
+
+.d1-parent {
+  position: relative;
+  top: 14.56rem;
+  left: 11.19rem;
+  width: 13.81rem;
+  height: 20rem;
+}
+/* .d1-parent:hover {
+  animation: 1s ease 0s 1 normal none grow;
+  opacity: 1;
+} */
+.dermatologist {
+  position: absolute;
+  top: 10.75rem;
+  left: 3.19rem;
+  font-size: var(--font-size-mid);
+  color: var(--color-dimgray-300);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 7.5rem;
+  height: 1.13rem;
+}
+.d1-group {
+  position: absolute;
+  top: 14.56rem;
+  left: 28.69rem;
+  width: 13.81rem;
+  height: 16rem;
+}
+/* .d1-group:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+} */
+.d1-container {
+  position: absolute;
+  top: 14.56rem;
+  left: 46.19rem;
+  width: 13.81rem;
+  height: 16rem;
+}
+/* .d1-container:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+} */
+.group-div {
+  position: absolute;
+  top: 14.56rem;
+  left: 63.69rem;
+  width: 13.81rem;
+  height: 16rem;
+}
+/* .group-div:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+} */
+.searching {
+  position: absolute;
+  top: 43.56rem;
+  left: -0.31rem;
+  width: 90rem;
+  height: 38.94rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-itim);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(161.51deg, #a6ffef, rgba(246, 255, 253, 0.97));
+  height: 85rem;
+  overflow: hidden;
+}
